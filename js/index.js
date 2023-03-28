@@ -6,7 +6,7 @@ window.addEventListener('scroll', function() {
 	if(scrollPosition < 200){
 
 		// parallax.style.transform = 'translateY(' + scrollPosition * 0.5 + 'px)';
-		parallax.style.transform = 'rotateX(' + scrollPosition * 0.25 + 'deg)';
+		// parallax.style.transform = 'rotateX(' + scrollPosition * 0.25 + 'deg)';
 	}
  });
 
